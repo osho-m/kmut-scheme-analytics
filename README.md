@@ -1,4 +1,4 @@
-# 📊 Kalaignar Magalir Urimai Thittam (KMUT) — Tamil Nadu Women's Welfare Scheme Dataset
+#  Kalaignar Magalir Urimai Thittam (KMUT) — Tamil Nadu Women's Welfare Scheme Dataset
 
 ## About This Dataset
 
@@ -100,24 +100,24 @@ The data is synthetically generated to realistically reflect Tamil Nadu's demogr
 
 ## Suggested Tasks
 
-### 🔵 Classification
+###  Classification
 - Predict household **eligibility** for the scheme
 - Predict **application approval** given socioeconomic features
 - Classify **risk of grievance** filing
 
-### 🟠 Regression
+###  Regression
 - Predict **number of months** benefit will be received
 - Predict **processing time** for applications
 
-### 🟢 Clustering
+###  Clustering
 - Segment **beneficiary profiles** for targeted outreach
 - Identify **underserved geographic zones**
 
-### 🔴 Anomaly Detection
+###  Anomaly Detection
 - Detect **potential fraud** or data entry errors
 - Flag **outlier beneficiary profiles** for audit
 
-### 🟣 NLP / GenAI
+###  NLP / GenAI
 - Build a **policy Q&A chatbot** using RAG
 - Classify **rejection reasons** from free text
 - Summarize **district-level performance**
