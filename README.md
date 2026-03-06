@@ -138,10 +138,10 @@ Demographic distributions are calibrated to Tamil Nadu Census 2011 approximate r
 
 ## Scheme Background
 
-The **Kalaignar Magalir Urimai Thittam** was announced by Tamil Nadu Chief Minister M.K. Stalin as part of the government's commitment to gender equality ("ஆணுக்கிங்கே பெண் நிகர்"). Key features:
+The **Kalaignar Magalir Urimai Thittam** was announced by Tamil Nadu Chief Minister as part of the government's commitment to gender equality. Key features:
 
 - **Benefit**: Rs. 1,000/month via Direct Benefit Transfer (DBT)
-- **Beneficiary**: Female head of household (குடும்பத் தலைவி)
+- **Beneficiary**: Female head of household
 - **Application**: At Fair Price Shop (FPS) registration camps
 - **Implementing Department**: Special Programme Implementation Department
 - **Coverage Unit**: Ration card (one per family)
